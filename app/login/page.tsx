@@ -2,7 +2,7 @@
 import { Eye, EyeOff, CalendarCheck2 } from 'lucide-react'
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
-import { saveMahasiswaSession, saveAdminSession, getMahasiswaSession, getAdminSession } from '@/lib/auth'
+import { saveMahasiswaSession, saveAdminSession, getMahasiswaSession, getAdminSession, clearSession } from '@/lib/auth'
 import { pressProps } from '@/components/pressProps'
 
 export default function LoginPage() {
