@@ -1,0 +1,22 @@
+{
+  "name": "Hadir — Absensi Organisasi",
+  "short_name": "Hadir",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b141a",
+  "theme_color": "#0b141a",
+  "icons": [
+    {
+      "src": "/apple-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon1.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
